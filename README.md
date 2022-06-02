@@ -1,0 +1,1 @@
+This project involves creating a recipe list from the Odin Project
